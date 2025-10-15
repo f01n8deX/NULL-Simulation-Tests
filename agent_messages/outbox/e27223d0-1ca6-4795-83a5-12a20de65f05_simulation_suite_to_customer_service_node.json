@@ -1,0 +1,17 @@
+{
+  "message_id": "e27223d0-1ca6-4795-83a5-12a20de65f05",
+  "timestamp": "2025-10-15T22:50:58.608129Z",
+  "from_agent": "simulation_suite",
+  "to_agent": "customer_service_node",
+  "message_type": "request",
+  "priority": "high",
+  "payload": {
+    "action": "process_ticket",
+    "ticket_data": {
+      "id": "TEST-001",
+      "subject": "Test ticket",
+      "description": "Testing"
+    }
+  },
+  "status": "unread"
+}

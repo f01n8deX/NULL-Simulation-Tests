@@ -1,0 +1,13 @@
+{
+  "message_id": "cc58238d-f91a-4052-8dfc-b3be429bd966",
+  "timestamp": "2025-10-15T22:50:57.695756Z",
+  "from_agent": "simulation_suite",
+  "to_agent": "data_collection_node",
+  "message_type": "request",
+  "priority": "high",
+  "payload": {
+    "action": "collect_market_data",
+    "industry": "Technology"
+  },
+  "status": "unread"
+}

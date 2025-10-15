@@ -1,0 +1,18 @@
+{
+  "message_id": "beb13f89-438b-4b9a-8393-196966b47d57",
+  "timestamp": "2025-10-15T22:48:05.249330Z",
+  "from_agent": "simulation_suite",
+  "to_agent": "operations_node",
+  "message_type": "request",
+  "priority": "high",
+  "payload": {
+    "action": "create_workflow",
+    "workflow_name": "Test Workflow",
+    "steps": [
+      {
+        "name": "Step 1"
+      }
+    ]
+  },
+  "status": "unread"
+}

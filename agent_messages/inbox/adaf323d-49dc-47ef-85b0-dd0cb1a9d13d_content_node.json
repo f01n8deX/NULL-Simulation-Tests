@@ -1,0 +1,17 @@
+{
+  "message_id": "adaf323d-49dc-47ef-85b0-dd0cb1a9d13d",
+  "timestamp": "2025-10-15T22:48:02.827102Z",
+  "from_agent": "simulation_suite",
+  "to_agent": "content_node",
+  "message_type": "request",
+  "priority": "high",
+  "payload": {
+    "action": "generate_email",
+    "subject": "Test",
+    "data": {
+      "summary": "Test email"
+    },
+    "recipient_type": "professional"
+  },
+  "status": "unread"
+}

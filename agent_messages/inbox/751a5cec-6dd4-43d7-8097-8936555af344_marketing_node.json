@@ -1,0 +1,19 @@
+{
+  "message_id": "751a5cec-6dd4-43d7-8097-8936555af344",
+  "timestamp": "2025-10-15T22:48:03.738583Z",
+  "from_agent": "simulation_suite",
+  "to_agent": "marketing_node",
+  "message_type": "request",
+  "priority": "high",
+  "payload": {
+    "action": "create_campaign",
+    "campaign_name": "Test Campaign",
+    "target_audience": "Tech professionals",
+    "budget": 5000,
+    "channels": [
+      "social",
+      "email"
+    ]
+  },
+  "status": "unread"
+}

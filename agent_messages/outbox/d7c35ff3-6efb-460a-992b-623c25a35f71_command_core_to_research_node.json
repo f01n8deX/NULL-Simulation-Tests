@@ -1,0 +1,14 @@
+{
+  "message_id": "d7c35ff3-6efb-460a-992b-623c25a35f71",
+  "timestamp": "2025-10-15T22:48:08.874788Z",
+  "from_agent": "command_core",
+  "to_agent": "research_node",
+  "message_type": "directive",
+  "priority": "critical",
+  "payload": {
+    "task": "Complete business review workflow",
+    "priority": "high",
+    "workflow_id": "business_review_001"
+  },
+  "status": "unread"
+}

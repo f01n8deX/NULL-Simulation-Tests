@@ -1,0 +1,20 @@
+{
+  "message_id": "c51fcf08-9633-4a0e-9ae5-df7caeae0e81",
+  "timestamp": "2025-10-15T22:51:01.527872Z",
+  "from_agent": "command_core",
+  "to_agent": "marketing_node",
+  "message_type": "request",
+  "priority": "high",
+  "payload": {
+    "action": "create_campaign",
+    "campaign_name": "AI Solution Launch",
+    "target_audience": "Tech executives",
+    "budget": 50000,
+    "channels": [
+      "linkedin",
+      "email",
+      "webinar"
+    ]
+  },
+  "status": "unread"
+}

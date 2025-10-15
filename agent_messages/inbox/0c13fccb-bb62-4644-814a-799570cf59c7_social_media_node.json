@@ -1,0 +1,14 @@
+{
+  "message_id": "0c13fccb-bb62-4644-814a-799570cf59c7",
+  "timestamp": "2025-10-15T22:50:58.300443Z",
+  "from_agent": "simulation_suite",
+  "to_agent": "social_media_node",
+  "message_type": "request",
+  "priority": "high",
+  "payload": {
+    "action": "create_post",
+    "platform": "twitter",
+    "content": "Test post content"
+  },
+  "status": "unread"
+}

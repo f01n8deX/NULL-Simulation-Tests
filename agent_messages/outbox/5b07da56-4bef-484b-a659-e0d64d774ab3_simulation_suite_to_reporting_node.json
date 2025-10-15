@@ -1,0 +1,17 @@
+{
+  "message_id": "5b07da56-4bef-484b-a659-e0d64d774ab3",
+  "timestamp": "2025-10-15T22:50:59.513331Z",
+  "from_agent": "simulation_suite",
+  "to_agent": "reporting_node",
+  "message_type": "request",
+  "priority": "high",
+  "payload": {
+    "action": "generate_executive_report",
+    "title": "Test Report",
+    "data": {
+      "metric": "value"
+    },
+    "period": "Test Period"
+  },
+  "status": "unread"
+}

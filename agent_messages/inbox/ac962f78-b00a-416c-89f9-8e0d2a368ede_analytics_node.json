@@ -1,0 +1,16 @@
+{
+  "message_id": "ac962f78-b00a-416c-89f9-8e0d2a368ede",
+  "timestamp": "2025-10-15T22:51:01.226093Z",
+  "from_agent": "command_core",
+  "to_agent": "analytics_node",
+  "message_type": "request",
+  "priority": "high",
+  "payload": {
+    "action": "analyze_patterns",
+    "data": {
+      "market": "growing",
+      "competition": "high"
+    }
+  },
+  "status": "unread"
+}

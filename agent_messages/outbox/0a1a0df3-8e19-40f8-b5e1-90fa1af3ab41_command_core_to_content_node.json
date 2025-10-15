@@ -1,0 +1,21 @@
+{
+  "message_id": "0a1a0df3-8e19-40f8-b5e1-90fa1af3ab41",
+  "timestamp": "2025-10-15T22:51:01.836381Z",
+  "from_agent": "command_core",
+  "to_agent": "content_node",
+  "message_type": "request",
+  "priority": "high",
+  "payload": {
+    "action": "generate_email",
+    "subject": "Complete Market Analysis and Campaign Strategy",
+    "data": {
+      "summary": "Comprehensive analysis complete with campaign ready",
+      "metrics": {
+        "market_size": "$50B",
+        "growth": "25%"
+      }
+    },
+    "recipient_type": "executive"
+  },
+  "status": "unread"
+}

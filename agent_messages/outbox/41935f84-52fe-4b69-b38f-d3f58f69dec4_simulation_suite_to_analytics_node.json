@@ -1,0 +1,15 @@
+{
+  "message_id": "41935f84-52fe-4b69-b38f-d3f58f69dec4",
+  "timestamp": "2025-10-15T22:50:56.181088Z",
+  "from_agent": "simulation_suite",
+  "to_agent": "analytics_node",
+  "message_type": "request",
+  "priority": "high",
+  "payload": {
+    "action": "analyze_patterns",
+    "data": {
+      "test": "data"
+    }
+  },
+  "status": "unread"
+}

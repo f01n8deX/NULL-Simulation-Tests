@@ -1,0 +1,17 @@
+{
+  "message_id": "efe051dc-d781-4a32-8a18-3eb1e9cc7aaa",
+  "timestamp": "2025-10-15T22:50:57.092009Z",
+  "from_agent": "simulation_suite",
+  "to_agent": "dev_node",
+  "message_type": "request",
+  "priority": "high",
+  "payload": {
+    "action": "generate_script",
+    "script_name": "test.py",
+    "description": "Test script",
+    "requirements": [
+      "Test requirement"
+    ]
+  },
+  "status": "unread"
+}

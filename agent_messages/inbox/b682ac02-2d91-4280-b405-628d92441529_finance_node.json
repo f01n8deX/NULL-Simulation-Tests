@@ -1,0 +1,14 @@
+{
+  "message_id": "b682ac02-2d91-4280-b405-628d92441529",
+  "timestamp": "2025-10-15T22:48:08.470647Z",
+  "from_agent": "command_core",
+  "to_agent": "finance_node",
+  "message_type": "directive",
+  "priority": "critical",
+  "payload": {
+    "task": "Complete business review workflow",
+    "priority": "high",
+    "workflow_id": "business_review_001"
+  },
+  "status": "unread"
+}

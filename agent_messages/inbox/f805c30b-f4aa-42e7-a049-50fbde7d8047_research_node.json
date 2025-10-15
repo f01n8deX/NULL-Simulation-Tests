@@ -1,0 +1,14 @@
+{
+  "message_id": "f805c30b-f4aa-42e7-a049-50fbde7d8047",
+  "timestamp": "2025-10-15T22:51:00.923942Z",
+  "from_agent": "command_core",
+  "to_agent": "research_node",
+  "message_type": "request",
+  "priority": "high",
+  "payload": {
+    "action": "conduct_research",
+    "topic": "AI market trends 2025",
+    "depth": "comprehensive"
+  },
+  "status": "unread"
+}

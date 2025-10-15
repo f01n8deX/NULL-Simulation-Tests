@@ -1,0 +1,17 @@
+{
+  "message_id": "beb00fc1-5d70-4797-8072-6a05bffa9a55",
+  "timestamp": "2025-10-15T22:48:06.457089Z",
+  "from_agent": "finance_node",
+  "to_agent": "analytics_node",
+  "message_type": "request",
+  "priority": "high",
+  "payload": {
+    "action": "analyze_patterns",
+    "data": {
+      "revenue": "$10,000",
+      "transactions": 50,
+      "growth": "15%"
+    }
+  },
+  "status": "unread"
+}

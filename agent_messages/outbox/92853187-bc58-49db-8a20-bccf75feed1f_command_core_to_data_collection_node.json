@@ -1,0 +1,13 @@
+{
+  "message_id": "92853187-bc58-49db-8a20-bccf75feed1f",
+  "timestamp": "2025-10-15T22:51:00.621463Z",
+  "from_agent": "command_core",
+  "to_agent": "data_collection_node",
+  "message_type": "request",
+  "priority": "high",
+  "payload": {
+    "action": "collect_market_data",
+    "industry": "AI Technology"
+  },
+  "status": "unread"
+}

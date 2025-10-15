@@ -1,0 +1,18 @@
+{
+  "message_id": "647d0a75-28a3-42be-ab0b-d84f4ec8249d",
+  "timestamp": "2025-10-15T22:48:04.341913Z",
+  "from_agent": "simulation_suite",
+  "to_agent": "email_management_node",
+  "message_type": "request",
+  "priority": "high",
+  "payload": {
+    "action": "process_emails",
+    "emails": [
+      {
+        "subject": "Test",
+        "from": "test@example.com"
+      }
+    ]
+  },
+  "status": "unread"
+}

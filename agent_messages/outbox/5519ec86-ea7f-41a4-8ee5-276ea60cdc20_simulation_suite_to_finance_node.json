@@ -1,0 +1,13 @@
+{
+  "message_id": "5519ec86-ea7f-41a4-8ee5-276ea60cdc20",
+  "timestamp": "2025-10-15T22:50:55.879487Z",
+  "from_agent": "simulation_suite",
+  "to_agent": "finance_node",
+  "message_type": "request",
+  "priority": "high",
+  "payload": {
+    "action": "generate_financial_summary",
+    "period": "test"
+  },
+  "status": "unread"
+}

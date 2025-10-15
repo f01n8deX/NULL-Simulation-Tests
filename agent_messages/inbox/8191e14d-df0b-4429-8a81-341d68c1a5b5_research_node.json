@@ -1,0 +1,14 @@
+{
+  "message_id": "8191e14d-df0b-4429-8a81-341d68c1a5b5",
+  "timestamp": "2025-10-15T22:50:56.790136Z",
+  "from_agent": "simulation_suite",
+  "to_agent": "research_node",
+  "message_type": "request",
+  "priority": "high",
+  "payload": {
+    "action": "conduct_research",
+    "topic": "AI trends",
+    "depth": "quick"
+  },
+  "status": "unread"
+}

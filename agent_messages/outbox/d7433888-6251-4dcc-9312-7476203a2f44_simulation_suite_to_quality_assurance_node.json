@@ -1,0 +1,12 @@
+{
+  "message_id": "d7433888-6251-4dcc-9312-7476203a2f44",
+  "timestamp": "2025-10-15T22:50:59.815654Z",
+  "from_agent": "simulation_suite",
+  "to_agent": "quality_assurance_node",
+  "message_type": "request",
+  "priority": "high",
+  "payload": {
+    "action": "check_system_health"
+  },
+  "status": "unread"
+}

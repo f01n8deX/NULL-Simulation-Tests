@@ -1,0 +1,13 @@
+{
+  "message_id": "2d67da0e-0aa2-429f-8023-0fdbdc380d51",
+  "timestamp": "2025-10-15T22:48:06.960419Z",
+  "from_agent": "command_core",
+  "to_agent": "data_collection_node",
+  "message_type": "request",
+  "priority": "high",
+  "payload": {
+    "action": "collect_market_data",
+    "industry": "AI Technology"
+  },
+  "status": "unread"
+}

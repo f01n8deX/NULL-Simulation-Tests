@@ -1,0 +1,20 @@
+{
+  "message_id": "437bb568-16d7-4de4-b8a5-85449c1877eb",
+  "timestamp": "2025-10-15T22:48:06.959356Z",
+  "from_agent": "analytics_node",
+  "to_agent": "content_node",
+  "message_type": "request",
+  "priority": "medium",
+  "payload": {
+    "action": "generate_email",
+    "subject": "Weekly Analytics Report",
+    "data": {
+      "summary": "Strong performance this week",
+      "metrics": {
+        "growth": "15%"
+      }
+    },
+    "recipient_type": "executive"
+  },
+  "status": "unread"
+}

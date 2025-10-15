@@ -1,0 +1,20 @@
+{
+  "message_id": "7e285717-19b7-4329-9bed-08552647a561",
+  "timestamp": "2025-10-15T22:50:59.211425Z",
+  "from_agent": "simulation_suite",
+  "to_agent": "project_management_node",
+  "message_type": "request",
+  "priority": "high",
+  "payload": {
+    "action": "create_project",
+    "project_name": "Test Project",
+    "description": "Test",
+    "deadline": "2025-12-31",
+    "tasks": [
+      {
+        "name": "Task 1"
+      }
+    ]
+  },
+  "status": "unread"
+}
